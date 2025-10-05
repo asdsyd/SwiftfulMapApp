@@ -20,9 +20,9 @@ A simple SwiftUI-based map application that demonstrates map integration, user l
 
 ## Requirements
 
-- Xcode 13 or later
+- Xcode 26 or later
 - Swift 5.5+
-- iOS 15+ (tested)
+- iOS 26+ (tested)
 - Basic familiarity with SwiftUI
 
 ***
@@ -91,17 +91,16 @@ MIT License. See [`LICENSE`](LICENSE) for details.
 
 ## Credits
 
-- [SwiftUI Map App for Beginners YouTube Playlist][1]
+- Nick from Swiftful Thinking [SwiftUI Map App for Beginners YouTube Playlist][1]
 
 ***
 
 ## Contact
 
-For support or questions, please contact [your.email@example.com].
+For support or questions, please contact [ashasd02@gmail.com].
 
 ***
 
-Replace placeholders with actual repo links, contact details, and license information as appropriate[1].
 
 Sources
 [1] SwiftUI Map App (Beginner Level) https://www.youtube.com/playlist?list=PLwvDm4Vfkdpha5eVTjLM0eRlJ7-yDDwBk
