@@ -4,12 +4,11 @@
 <dict>
 	<key>UILaunchScreen</key>
 	<dict>
-		<key>UIImageName</key>
-		<string>logo-launch</string>
-		<key>UIImageRespectsSafeAreaInsets</key>
-		<true/>
 		<key>UILaunchScreen</key>
-		<dict/>
+		<dict>
+			<key>New item</key>
+			<string></string>
+		</dict>
 	</dict>
 </dict>
 </plist>
