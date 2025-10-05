@@ -97,7 +97,7 @@ MIT License. See [`LICENSE`](LICENSE) for details.
 
 ## Contact
 
-For support or questions, please contact [ashasd02@gmail.com].
+For support or questions, please contact [ashasd02@gmail.com](my email).
 
 ***
 
