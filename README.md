@@ -1,5 +1,7 @@
 # SwiftUI Map App
 
+![App Preview](App screenshot.png)
+
 
 
 A simple SwiftUI-based map application that demonstrates map integration, user location tracking, annotations, and basic SwiftUI layout for beginners[1].
