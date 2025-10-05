@@ -1,6 +1,6 @@
 # SwiftUI Map App
 
-![App Preview](App screenshot.png)
+![App Preview]("App screenshot.png")
 
 
 
